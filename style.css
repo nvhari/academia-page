@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: #212529;
+    height: 70vh;
+}
+.hero p:nth-child(1){
+    color: #fff;
+    font-size:xx-large ;
+ font-weight: 800;
+}
+.hero p:nth-child(2){
+    color: #fff;
+}
+.hero button{
+    color: #fff;
+    background-color: #0D6EFD;
+    border: #0D6EFD;
+    border-radius: 10px;
+    padding: 8px;
+}
+.container{
+    padding: 50px;
+}
+.image img{
+    margin-left: 65px;
+    
+}
